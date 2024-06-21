@@ -1,0 +1,39 @@
+﻿<head>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="~/css/UpLoadStyle.css" />
+    <script src="~/js/upload.js" defer></script>
+
+</head>
+
+
+
+<body>
+
+    <header>
+        <h1>Upload Folder</h1>
+    </header>
+
+    <form id="uploadForm" class="uploadForm">
+        <div>
+            <div>
+                <input type="text" id="folderInput" name="folderInput" placeholder="Introduzca la dirección de la carpeta" />
+            </div>
+            <div>
+                <button type="submit" id"boton" class="boton">Subir</button>
+            </div>
+        </div>
+    </form>
+
+    
+
+    <div id="messageContainer" class="messageContainer">
+        @if (!string.IsNullOrEmpty(ViewBag.Message))
+        {
+            <div class="alert alert-success" role="alert">
+                <a href="@ViewBag.Message" target="_blank">@ViewBag.Message</a>
+            </div>
+        }
+    </div>
+</body>
+

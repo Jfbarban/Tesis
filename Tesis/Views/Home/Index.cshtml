@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="~/css/Index.css" />
+    <script src="~/js/IndexScript.js"></script>
+
+</head>
+
+<body>
+
+    <header>
+        <div>
+            <h1 class="display-4">Bienvenido</h1>
+            <p>Use los botones abajo para configurar su conexion.</p>
+        </div>
+    </header>
+
+    <div class="text-center">
+        <div>
+            <div>
+                <button id="SetConnectionSetings" class="SetConnectionSetings">Establecer Configuracion</button>
+            </div>
+            <div>
+                <button id="subirArchivo" class="subirArchivo">Subir Archivo</button>
+            </div>
+            <div>
+                <button id="btnMostrarSuvidos" class="btnMostrarSuvidos">Mostrar Subidos</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="messageContainer" class="messageContainer">
+
+        @if (!string.IsNullOrEmpty(ViewBag.Message))
+        {
+            <div class="alert alert-success" role="alert">
+                @ViewBag.Message
+            </div>
+        }
+
+    </div>
+
+    
+
+</body>

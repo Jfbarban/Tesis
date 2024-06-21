@@ -1,0 +1,39 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tesis
+build_property.RootNamespace = Tesis
+build_property.ProjectDir = C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/José Francisco/Documents/Visual Studio 2022/Proyectos/Web/Tesis/Tesis/Views/Home/Connection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25uZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/José Francisco/Documents/Visual Studio 2022/Proyectos/Web/Tesis/Tesis/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/José Francisco/Documents/Visual Studio 2022/Proyectos/Web/Tesis/Tesis/Views/Home/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/José Francisco/Documents/Visual Studio 2022/Proyectos/Web/Tesis/Tesis/Views/Home/SubirArchivo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJpckFyY2hpdm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/José Francisco/Documents/Visual Studio 2022/Proyectos/Web/Tesis/Tesis/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fmn1n1zbmu

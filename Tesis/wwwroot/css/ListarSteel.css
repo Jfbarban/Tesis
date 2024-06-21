@@ -1,0 +1,38 @@
+﻿header {
+    color: red;
+    display: flex;
+    flex-direction: row;
+    place-content: space-evenly;
+}
+
+div {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    place-content: space-evenly;
+}
+
+ul{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    place-content: space-evenly;
+}
+
+    ul li {
+        margin: 5px;
+        background-color: aliceblue;
+        border-radius: 20px;
+        border: 1px solid red;
+        font-size: 23px;
+        padding: 8px;
+    }
+
+.btnBorrar {
+    margin: 5px;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px; /* El valor que desees para el radio de borde */
+    border: 1px solid #ccc; /* Para mantener el borde visible */
+    padding: 8px; /* Añadir algún espacio interno para que el texto no se pegue al borde */
+}

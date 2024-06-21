@@ -1,0 +1,44 @@
+header {
+    color: red;
+    display: flex;
+    flex-direction: row;
+    place-content: space-evenly;
+}
+
+.formGroup div {
+    margin: auto;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    width: 600px;
+}
+    .formGroup div div {
+        margin: auto;
+        font-size: 25px;
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 30px;
+        width: 600px;
+        place-content: space-between;
+    }
+        .formGroup button {
+            height: 40px;
+            border-radius: 20px; /* El valor que desees para el radio de borde */
+            border: 1px solid #ccc; /* Para mantener el borde visible */
+            padding: 8px; /* Añadir algún espacio interno para que el texto no se pegue al borde */
+        }
+
+.formGroup div input {
+    height: 40px;
+    border-radius: 20px; /* El valor que desees para el radio de borde */
+    border: 1px solid #ccc; /* Para mantener el borde visible */
+    padding: 8px; /* Añadir algún espacio interno para que el texto no se pegue al borde */
+}
+
+.formGroup div select {
+    width: 150px;
+    border-radius: 20px; /* El valor que desees para el radio de borde */
+    border: 1px solid #ccc; /* Para mantener el borde visible */
+    padding: 8px;
+}

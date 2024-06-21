@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\models\\nextcloudclient\\nexcloudclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\models\\nextcloudclient\\nexcloudclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\wwwroot\\js\\upload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\wwwroot\\js\\upload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\wwwroot\\js\\indexscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\wwwroot\\js\\indexscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\wwwroot\\js\\listascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\wwwroot\\js\\listascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\wwwroot\\js\\conectionjscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\wwwroot\\js\\conectionjscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\views\\home\\subirarchivo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\views\\home\\subirarchivo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\views\\home\\connection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\views\\home\\connection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\views\\home\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\views\\home\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\wwwroot\\css\\uploadstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\wwwroot\\css\\uploadstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|c:\\users\\jos\u00E9 francisco\\documents\\visual studio 2022\\proyectos\\nueva carpeta\\tesis\\tesis\\wwwroot\\css\\listarsteel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B607C4A-B1DB-4161-825F-2F00E88C6069}|Tesis\\Tesis.csproj|solutionrelative:tesis\\wwwroot\\css\\listarsteel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NexCloudClient.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Models\\NextCloudClient\\NexCloudClient.cs",
+              "RelativeDocumentMoniker": "Tesis\\Models\\NextCloudClient\\NexCloudClient.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Models\\NextCloudClient\\NexCloudClient.cs",
+              "RelativeToolTip": "Tesis\\Models\\NextCloudClient\\NexCloudClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:43:19.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "upload.js",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\upload.js",
+              "RelativeDocumentMoniker": "Tesis\\wwwroot\\js\\upload.js",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\upload.js",
+              "RelativeToolTip": "Tesis\\wwwroot\\js\\upload.js",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T02:25:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexScript.js",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\IndexScript.js",
+              "RelativeDocumentMoniker": "Tesis\\wwwroot\\js\\IndexScript.js",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\IndexScript.js",
+              "RelativeToolTip": "Tesis\\wwwroot\\js\\IndexScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T02:25:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConectionJScript.js",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\ConectionJScript.js",
+              "RelativeDocumentMoniker": "Tesis\\wwwroot\\js\\ConectionJScript.js",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\ConectionJScript.js",
+              "RelativeToolTip": "Tesis\\wwwroot\\js\\ConectionJScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T02:23:37.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubirArchivo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\SubirArchivo.cshtml",
+              "RelativeDocumentMoniker": "Tesis\\Views\\Home\\SubirArchivo.cshtml",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\SubirArchivo.cshtml",
+              "RelativeToolTip": "Tesis\\Views\\Home\\SubirArchivo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T02:22:56.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connection.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\Connection.cshtml",
+              "RelativeDocumentMoniker": "Tesis\\Views\\Home\\Connection.cshtml",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\Connection.cshtml",
+              "RelativeToolTip": "Tesis\\Views\\Home\\Connection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T02:22:06.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tesis\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tesis\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAYwH4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:18:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tesis\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Tesis\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T20:29:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaScript.js",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\ListaScript.js",
+              "RelativeDocumentMoniker": "Tesis\\wwwroot\\js\\ListaScript.js",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\js\\ListaScript.js",
+              "RelativeToolTip": "Tesis\\wwwroot\\js\\ListaScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-18T02:25:39.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpLoadStyle.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\css\\UpLoadStyle.css",
+              "RelativeDocumentMoniker": "Tesis\\wwwroot\\css\\UpLoadStyle.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\css\\UpLoadStyle.css",
+              "RelativeToolTip": "Tesis\\wwwroot\\css\\UpLoadStyle.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-17T12:15:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Tesis\\Views\\Home\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\Views\\Home\\Listar.cshtml",
+              "RelativeToolTip": "Tesis\\Views\\Home\\Listar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T12:11:15.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarSteel.css",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\css\\ListarSteel.css",
+              "RelativeDocumentMoniker": "Tesis\\wwwroot\\css\\ListarSteel.css",
+              "ToolTip": "C:\\Users\\Jos\u00E9 Francisco\\Documents\\Visual Studio 2022\\Proyectos\\Nueva carpeta\\Tesis\\Tesis\\wwwroot\\css\\ListarSteel.css",
+              "RelativeToolTip": "Tesis\\wwwroot\\css\\ListarSteel.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-17T12:04:08.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

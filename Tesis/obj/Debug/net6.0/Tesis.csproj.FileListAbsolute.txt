@@ -1,0 +1,60 @@
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\appsettings.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\Tesis.staticwebassets.runtime.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\Tesis.exe
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\Tesis.deps.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\Tesis.runtimeconfig.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\bin\Debug\net6.0\Tesis.pdb
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.AssemblyInfoInputs.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.AssemblyInfo.cs
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.csproj.CoreCompileInputs.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.RazorAssemblyInfo.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.RazorAssemblyInfo.cs
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.Tesis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.build.Tesis.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tesis.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tesis.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\scopedcss\bundle\Tesis.styles.css
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\scopedcss\projectbundle\Tesis.bundle.scp.css
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\refint\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.pdb
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\Tesis.genruntimeconfig.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Nueva carpeta\Tesis\Tesis\obj\Debug\net6.0\ref\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\appsettings.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\Tesis.staticwebassets.runtime.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\Tesis.exe
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\Tesis.deps.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\Tesis.runtimeconfig.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\bin\Debug\net6.0\Tesis.pdb
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.AssemblyInfoInputs.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.AssemblyInfo.cs
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.csproj.CoreCompileInputs.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.RazorAssemblyInfo.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.RazorAssemblyInfo.cs
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.Tesis.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.build.Tesis.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tesis.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tesis.props
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\scopedcss\bundle\Tesis.styles.css
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\scopedcss\projectbundle\Tesis.bundle.scp.css
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\refint\Tesis.dll
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.pdb
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\Tesis.genruntimeconfig.cache
+C:\Users\José Francisco\Documents\Visual Studio 2022\Proyectos\Web\Tesis\Tesis\obj\Debug\net6.0\ref\Tesis.dll
